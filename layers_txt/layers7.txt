@@ -1,0 +1,13 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "Các điểm dân cư dể bị tổn thương do thiên tai",
+      "toggleall": false,
+      "html" : "<div class='layer_text'>Bạn có thể xem các điểm dân cư dể bị tổn thương do thiên tai</div>",
+      "entries": [
+         
+      ]
+    }
+  ]
+}

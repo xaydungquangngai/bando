@@ -1,0 +1,67 @@
+{"layers": [ {
+          "type": "LayerGroup",
+          "title": "Các dự án đang triển khai ",
+          "html" : "<div class='layer_text'>Bạn có thể xem các dự án đang triển khai</div>",
+          "toggleall": false,
+          "entries": [
+          {
+          "type": "LayerGroup",
+          "title": "DA Thẩm định BCNCKT",
+          "html" : "<div class='layer_text'>Bạn có thể xem các dự án báo cáo nghiên cứu khả thi</div>",
+          "toggleall": false,
+          "entries": [
+
+					 {
+                     "type": "Layer",
+                     "id": "DA_BCNCKT",
+                     "title": "DA BCNNKT năm 2023",
+                     "url": "https://raw.githubusercontent.com/sxdquangngai/data/main/BCNCKT_2023.geojson",
+                     "cocotile": false,
+                     "minZoom": 2,
+                     "maxZoom": 20,
+					 "maxNativeZoom": 20
+			         }	
+  		             ]
+		  },
+          {
+          "type": "LayerGroup",
+          "title": "DA Thẩm định TKXD",
+          "html" : "<div class='layer_text'>Bạn có thể xem các dự án thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở</div>",
+          "toggleall": false,
+          "entries": [
+
+					 {
+                     "type": "Layer",
+                     "id": "DA_TKXD_2023",
+                     "title": "TKXD năm 2023",
+                     "url": "https://raw.githubusercontent.com/sxdquangngai/data/main/TKXD_2023.geojson",
+                     "cocotile": false,
+                     "minZoom": 2,
+                     "maxZoom": 20,
+					 "maxNativeZoom": 20
+			         }	
+  		             ]
+		  },
+          {
+          "type": "LayerGroup",
+          "title": "DA Báo cáo KTKT",
+          "html" : "<div class='layer_text'>Bạn có thể xem các dự án thẩm định báo cáo kinh tế kỹ thuật</div>",
+          "toggleall": false,
+          "entries": [
+
+					 {
+                     "type": "Layer",
+                     "id": "DA_BCKTKT_2023",
+                     "title": "DA BC TKKT năm 2023 ",
+                     "url": "https://raw.githubusercontent.com/sxdquangngai/data/main/BCKTKT_2023.geojson",
+                     "cocotile": false,
+                     "minZoom": 2,
+                     "maxZoom": 20,
+					 "maxNativeZoom": 20
+			         }	
+  		             ]
+		  }							
+  		]
+		}
+		]
+ }

@@ -1,0 +1,13 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "Danh mục dự án kêu gọi đầu tư ngành xây dựng",
+      "toggleall": false,
+      "html" : "<div class='layer_text'>Bạn có thể xem danh mục dự án kêu gọi đầu tư ngành xây dựng</div>",
+      "entries": [
+         
+      ]
+    }
+  ]
+}

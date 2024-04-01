@@ -1,0 +1,1379 @@
+{
+  "layers": [
+    		 {
+          "type": "LayerGroup",
+          "title": "Các quy hoạch ở tỉnh",
+          "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch lập trong phạm ranh giới tỉnh</div>",
+          "toggleall": false,
+          "entries": [
+					 {
+          "type": "LayerGroup",
+          "title": "Quy hoạch tỉnh",
+          "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch mỏ vật liệu</div>",
+          "toggleall": false,
+          "entries": [
+
+					            {
+                                 "type": "Layer",
+                                 "id": "QHT_mo",
+                                 "title": "Phương án quy hoạch mỏ vật liệu ",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/modat.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+								  }
+
+								
+		
+                             
+
+								
+								
+					]
+                    },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch đô thị và nông thôn",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch đô thị và nông thôn</div>",
+                      "toggleall": false,
+                      "entries": [
+
+ {
+                      "type": "LayerGroup",
+                      "title": "Sở Xây dựng thực hiện",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					 {
+          "type": "LayerGroup",
+          "title": "Quy hoạch Đường Dung Quất - Sa Huỳnh",
+          "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch lập trong phạm ranh giới tỉnh</div>",
+          "toggleall": false,
+          "entries": [
+		               
+							    {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_KS",
+                                 "title": "Khảo sát",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_KS/{z}/{x}/{y}.png",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                },					            
+                         {
+                           "type": "LayerGroup",
+						   "id": "QHC_Dungquat_SaHuynh_SDD",
+                           "title": "Sử dụng đất",
+                           "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch sử dụng đất</div>",
+                           "toggleall": false,
+						   	"maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  },
+                           "entries": [
+					            {
+                                 "type": "Layer",
+                                 "id": "QH tinhsssawwwa",
+                                 "title": "Quy hoạch tỉnh",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/sudungdatdungquat_sahuynh.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                },
+													            
+						        {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_SDD",
+                                 "title": "Sử dụng đất",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_SDD/{z}/{x}/{y}.png",
+                                 "cocotile": false,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                }
+								
+					            ]
+                             
+                                },
+							    {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_TNM",
+                                 "title": "Thoát nước mưa",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_TNM/{z}/{x}/{y}.png",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                },
+							    {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_CN",
+                                 "title": "Cấp nước",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_CN/{z}/{x}/{y}.png",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                }
+								
+								
+					]
+                    }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "id": "Quy_hoach_phan_khu_1_1",
+                                 "title": "Phân khu 1.1 đường ven biển Dung Quất  - Sa Huỳnh",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/Dungquat-SaHuynh_2000_phankhu1-1.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+			{
+                      "type": "LayerGroup",
+                      "title": "Thành phố Quảng Ngãi",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Thành phố Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "id": "quy_hoach_chung_2045",
+                                 "title": "quy hoạch chung 2045",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHchungTPQN.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2,
+					              "area" : {
+                                  "lat" : 15.147536,
+                                  "lng" : 108.851166,
+                                  "zoom" : 12
+                                  }
+                                },
+								                         {
+                           "type": "LayerGroup",
+						   "id": "QHC_tp_THOATNUOC",
+                           "title": "Thoát nước mưa",
+                           "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch sử dụng đất</div>",
+                           "toggleall": false,
+						   	"maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.147536,
+                                  "lng" : 108.851166,
+                                  "zoom" : 14
+                                  },
+                           "entries": [
+					            {
+                                 "type": "Layer",
+                                 "id": "QHC_tp_THOATNUOC",
+                                 "title": "Thoát nước mưa",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/thoatnuocTP/duongong/{z}/{x}/{y}.png",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.147536,
+                                  "lng" : 108.851166,
+                                  "zoom" : 14
+                                  }
+                                },
+													            
+						        {
+                                 "type": "Layer",
+                                 "id": "QHC_tp_THOATNUOC",
+                                 "title": "Thoát nước mưa",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/thoatnuocTP/huong/{z}/{x}/{y}.png",
+                                 "cocotile": false,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.147536,
+                                  "lng" : 108.851166,
+                                  "zoom" : 14
+                                  }
+                                }
+								
+					            ]
+                             
+                                }
+								
+								
+								
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					  					            {
+                                "type": "Layer",
+								"id": "Quy_hoach_phan_khu_Trung_tam_TP",
+                                 "title": "Quy hoạch phân khu Trung tâm TP",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPKTRUNGTAMTP.QN.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2,
+					              "area" : {
+                                  "lat" : 15.112607,
+                                  "lng" : 108.791428,
+                                  "zoom" : 14
+                                  }								 
+                                },
+					            {
+                                "type": "Layer",
+								"id": "Quy_hoach_phan_khu_phiaBac",
+                                 "title": "Quy hoạch phân khu phía Bắc ",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPKPHIABACTPQN1-2000.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                },
+							    {
+                                "type": "Layer",
+								"id": "Quy_hoach_phan_khu_NghiaDong_NghaaChanh",
+                                 "title": "Quy hoạch phân khu Nghĩa Dõng-Nghĩa Chánh",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPK_NGIADONG_NGHIACHANH.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                },
+		                        {
+                                "type": "Layer",
+								"id": "Quy_hoach_phan_khu_TinhKy_TinhKhe",
+                                 "title": "Quy hoạch phân khu Tịnh Kỳ - Tịnh Khê",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPKTINHKHE-TINHKY.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                },
+								{
+								 "type": "Layer",
+								 "id": "Quy_hoach_phan_khu_phia_Tay_Quang_Phu",
+                                 "title": "Quy hoạch phân khu phía Tây Quảng Phú",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QGPK_TAYQUANG PHU.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Thị xã Đức Phổ",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Thị xã Đức Phổ</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Bình Sơn",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Bình Sơn</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Mộ Đức",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Mộ Đức</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Tư Nghĩa",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch Huyện Tư Nghĩa</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Nghĩa Hành",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Nghĩa Hành</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Sơn Tịnh",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Sơn Tịnh</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Sơn Hà",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Sơn Hà</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Ba Tơ",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Ba Tơ</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Trà Bồng",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Trà Bồng</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Minh Long",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Minh Long</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "......",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": ".....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "......",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Sơn Tây",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Sơn Tây</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": ".....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "......",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Huyện Lý Sơn",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch Huyện Lý Sơn</div>",
+                      "toggleall": false,
+                      "entries": [
+					  {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": ".........",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": ".....",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+								{
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+					            {
+                                "type": "Layer",
+                                 "title": "......",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+	                  ]
+	                  }
+		  	  
+	                  ]
+	                  },
+
+                     
+							   							    {
+                                "type": "LayerGroup",
+                                "title": "Quy hoạch có tính chất kỹ thuật chuyên ngành cấp tỉnh",
+                                 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch có tính chất kỹ thuật chuyên ngành cấp tỉnh</div>",
+                                "toggleall": false,
+                                 "entries": [  
+	
+				                           {
+                                           "type": "LayerGroup",
+                                           "title": "Quy hoạch sử dụng đất đến năm 2030",
+                                           "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch sử dụng đất đến năm 2030</div>",
+                                           "toggleall": false,
+                                           "entries": [  
+										   
+										   	  {
+                                              "type": "Layer",
+                                              "id": "sudungdat_QuangNgai",
+                                              "title": "Thành phố Quảng Ngãi",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/quang_ngai__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 15.156477,
+                                                "lng" : 108.859921,
+                                                 "zoom" : 13
+                                                  }
+					       
+					       
+					       
+                                                },
+										   	  {
+                                              "type": "Layer",
+                                              "id": "sudungdat_DucPho",
+                                              "title": "Thị xã Đức Phổ",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/duc_pho__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					       "area" : {
+                                                "lat" : 14.767911,
+                                                "lng" : 109.055443,
+                                                 "zoom" : 12
+                                                  }
+                                                },
+										   	  {
+                                              "type": "Layer",
+                                              "id": "binh_son__quang_ngai",
+                                              "title": "Huyện Bình Sơn",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/binh_son__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 15.313327,
+                                                "lng" : 108.782158,
+                                                 "zoom" : 12
+                                                  }
+                                                },												
+								               {
+                                              "type": "Layer",
+                                              "id": "tu_nghia__quang_ngai",
+                                              "title": "Huyện Tư Nghĩa",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/tu_nghia__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 15.090356,
+                                                "lng" : 108.765678,
+                                                 "zoom" : 13
+                                                  }					       
+                                                },
+										      {
+                                              "type": "Layer",
+                                              "id": "mo_duc__quang_ngai",
+                                              "title": "Huyện Mộ Đức",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/mo_duc__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 14.949429,
+                                                "lng" : 108.900089,
+                                                 "zoom" : 13
+                                                  }						       
+                                                },
+											   {
+                                              "type": "Layer",
+                                              "id": "son_tinh__quang_ngai",
+                                              "title": "Huyện Sơn Tịnh",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/son_tinh__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					         "area" : {
+                                                "lat" : 15.198723,
+                                                "lng" : 108.700962,
+                                                 "zoom" : 13
+                                                  }
+                                                },
+											   {
+                                              "type": "Layer",
+                                              "id": "ly_son__quang_ngai",
+                                              "title": "Huyện Lý Sơn",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/ly_son__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 15.398990,
+                                                "lng" : 109.105310,
+                                                 "zoom" : 14
+                                                  }
+                                                },
+												{
+                                              "type": "Layer",
+                                              "id": "son_tay__quang_ngai",
+                                              "title": "Huyện Sơn Tây",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/son_tay__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 14.968003,
+                                                "lng" : 108.356438,
+                                                 "zoom" : 12
+                                                  }		       
+                                                },
+											  {
+                                              "type": "Layer",
+                                              "id": "ba_to__quang_ngai",
+                                              "title": "Huyện Ba Tơ",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/ba_to__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 14.744671,
+                                                "lng" : 108.720360,
+                                                 "zoom" : 12
+                                                  }					       
+                                                },
+											  {
+                                              "type": "Layer",
+                                              "id": "tra_bong__quang_ngai",
+                                              "title": "Huyện Trà Bồng",
+                                               "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/tra_bong__quang_ngai/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 18,
+					        "area" : {
+                                                "lat" : 15.202368,
+                                                "lng" : 108.443642,
+                                                 "zoom" : 12
+                                                  }					       
+                                                },
+											 {
+                                              "type": "Layer",
+                                              "id": "land1",
+                                              "title": "Thử nghiệm quy hoạch xây dựng",
+                                               "url": "https://api.mapbox.com/v4/tandanh.2t3biwvg/{z}/{x}/{y}.webp?sku=101IPpWHMc9w3&access_token=pk.eyJ1IjoidGFuZGFuaCIsImEiOiJjbDZubjlmNmswMmd1M2psZWtwcWpwZHF6In0.8bbXtIQpUh_lsX0D4LcYJw",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 20,
+											    "area" : {
+                                                "lat" : 15.114363,
+                                                "lng" : 108.802334,
+                                                 "zoom" : 15
+                                                  }	
+                                                },								
+										       {
+                                              "type": "Layer",
+                                              "id": "tandanh.2tcmvbsr",
+                                              "title": "Thử nghiệm bản đồ giải thửa",
+                                               "url": "https://process.guland.vn/land/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 20
+                                                }
+								            ] 
+								            },
+									       {
+                                           "type": "LayerGroup",
+                                           "title": "Khu liên hợp xử lý Nghĩa Kỳ",
+                                           "html" : "<div class='layer_text'>Bạn có thể xem các Khu liên hợp xử lý Nghĩa Kỳ</div>",
+                                           "toggleall": false,
+                                           "entries": [  
+										   
+										   {
+                                              "type": "Layer",
+                                              "id": "tanphat1234.3ytfdxyw",
+                                              "title": "Quy hoạch sử dụng đất",
+                                               "url": "https://api.mapbox.com/v4/tanphat1234.3ytfdxyw/{z}/{x}/{y}.webp?sku=101IPpWHMc9w3&access_token=pk.eyJ1IjoidGFucGhhdDEyMzQiLCJhIjoiY2w4NXdudTg1MDY4eTNwcWZiZDQ2ZHZybSJ9.YXqImEEnGSZEm5Ax45owIg",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 19,
+					       "area" : {
+                                                "lat" : 15.076433,
+                                                "lng" : 108.755121,
+                                                 "zoom" : 15
+                                                  }
+											   
+                                                },		
+
+										   {
+                                              "type": "Layer",
+                                              "id": "tanphat1234.76y4wl26",
+                                              "title": "Quy hoạch kiến trúc cảnh quan",
+                                               "url": "https://api.mapbox.com/v4/tanphat1234.76y4wl26/{z}/{x}/{y}.webp?sku=101IPpWHMc9w3&access_token=pk.eyJ1IjoidGFucGhhdDEyMzQiLCJhIjoiY2w4NXdudTg1MDY4eTNwcWZiZDQ2ZHZybSJ9.YXqImEEnGSZEm5Ax45owIg",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 19,
+					       "area" : {
+                                                "lat" : 15.076433,
+                                                "lng" : 108.755121,
+                                                 "zoom" : 15
+                                                  }					       
+											   
+                                                },
+										       {
+                                              "type": "Layer",
+                                              "id": "tanphat1234.6ywgqk8q",
+                                              "title": "Đánh giá môi trường chiến lược",
+                                               "url": "https://api.mapbox.com/v4/tanphat1234.6ywgqk8q/{z}/{x}/{y}.webp?sku=101IPpWHMc9w3&access_token=pk.eyJ1IjoidGFucGhhdDEyMzQiLCJhIjoiY2w4NXdudTg1MDY4eTNwcWZiZDQ2ZHZybSJ9.YXqImEEnGSZEm5Ax45owIg",
+                                               "cocotile": true,
+                                               "minZoom": 5,
+                                               "maxZoom": 20,
+                                               "maxNativeZoom": 19,
+					       "area" : {
+                                                "lat" : 15.076433,
+                                                "lng" : 108.755121,
+                                                 "zoom" : 15
+                                                  }
+											   
+                                                },	
+										       {
+                                              "type": "Layer",
+                                              "id": "danh",
+                                              "title": "TN ",
+                                               "url": "https://process.guland.vn/land/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 4,
+                                               "maxZoom": 25,
+                                               "maxNativeZoom": 19,
+					        "area" : {
+                                                "lat" : 15.076433,
+                                                "lng" : 108.755121,
+                                                 "zoom" : 15
+                                                  }
+											   
+                                                },
+										       {
+                                              "type": "Layer",
+                                              "id": "danh1",
+                                              "title": "TN1 ",
+                                               "url": "https://api-v2.meeymap.com/geoserver/gwc/service/tms/1.0.0/meey_map/{z}/{x}/{y}.png",
+                                               "cocotile": true,
+                                               "minZoom": 4,
+                                               "maxZoom": 25,
+                                               "maxNativeZoom": 18,
+					                           "area" : {
+                                                "lat" : 15.076433,
+                                                "lng" : 108.755121,
+                                                 "zoom" : 15
+                                                  }
+											   
+                                                }												
+												
+								            ] 
+								            }
+											
+											
+
+                                ]
+                                }
+
+	      ]
+	  
+	     }
+         
+      ]
+    }
+

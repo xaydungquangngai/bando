@@ -1,0 +1,13 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "Tên các tuyến đường đô thị",
+      "toggleall": false,
+      "html" : "<div class='layer_text'>Bạn có thể xem tên các tuyến đường đô thị</div>",
+      "entries": [
+         
+      ]
+    }
+  ]
+}

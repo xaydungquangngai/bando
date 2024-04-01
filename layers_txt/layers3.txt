@@ -1,0 +1,142 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "Hạ tầng kỹ thuật",
+      "toggleall": false,
+      "html" : "<div class='layer_text'>Bạn có thể xem hạ tầng kỹ thuật trên toàn tỉnh Quảng Ngãi.</div>",
+      "entries": [
+		              {
+                      "type": "LayerGroup",
+                      "title": "Giao thông đô thị",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+                                  {
+                                 "type": "Layer",
+                                "id": "GTTP",
+                                "title": "Giao thông thành phố Quảng Ngãi",
+                                "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QH.geojson",
+                                "cocotile": true,
+                                "minZoom": 2,
+                                "maxZoom": 50,
+                                "maxNativeZoom": 2
+                                }
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Thoát nước mưa",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+					  								                         {
+                           "type": "LayerGroup",
+                           "title": "Xử lý khơi thông dòng chảy 2023",
+                           "html" : "<div class='layer_text'></div>",
+                           "toggleall": false,
+						   	"maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.147536,
+                                  "lng" : 108.851166,
+                                  "zoom" : 14
+                                  },
+                           "entries": [
+					            {
+                                 "type": "Layer",
+                                 "id": "Song",
+                                 "title": "Các nhánh sông",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/hethongsong.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.023220,
+                                  "lng" : 108.807907,
+                                  "zoom" : 13
+                                  }
+                                },
+													            
+						        {
+                                 "type": "Layer",
+                                 "id": "vitri",
+                                 "title": "Vị trí cần khơi thông",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/Vitricankhoithong.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 15.055796,
+                                  "lng" : 108.845501,
+                                  "zoom" : 14
+                                  }
+                                }
+								
+					            ]
+                             
+                                }
+  	  
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Thoát nước thải",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  	  
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Cấp nước",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Điện chiếu sáng",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  	  
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Hào kỹ thuật, viễn thông",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  	  
+	                  ]
+	                  },					  
+		              {
+                      "type": "LayerGroup",
+                      "title": "Cây xanh",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  	  
+	                  ]
+	                  },
+		              {
+                      "type": "LayerGroup",
+                      "title": "Nghĩa trang",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
+                      "toggleall": false,
+                      "entries": [
+  	  
+	                  ]
+	                  }						  
+					  
+         
+      ]
+    }
+  ]
+}
