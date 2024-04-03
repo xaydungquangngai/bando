@@ -288,7 +288,6 @@
 				 {
                                 "type": "Layer",
 				"id": "Quy_hoach_phan_khu_Trung_tam_TP",
-                                 "title": "Quy hoạch phân khu Trung tâm TP",
                    		  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                   "toggleall": false,
                              	 "area" : {
@@ -318,7 +317,7 @@
                                 }
 	                       ]
                                 },
-					            {
+			    {
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_phiaBac",
                                  "title": "Quy hoạch phân khu phía Bắc ",
