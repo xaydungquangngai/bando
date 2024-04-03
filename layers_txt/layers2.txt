@@ -302,7 +302,7 @@
                                   },
 				 {
                                 "type": "Layer",
-				"id": "Quy_hoach_phan_khu_Trung_tam_TP",
+				"id": "Quy_hoach_phan_khu_Trung_tam_TP11",
                                  "title": "Quy hoạch phân khu Trung tâm TP",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
 				  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
