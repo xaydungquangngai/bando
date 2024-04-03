@@ -285,8 +285,23 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
                       "toggleall": false,
                       "entries": [
-				
-			    {
+					  					            {
+                                "type": "Layer",
+								"id": "Quy_hoach_phan_khu_Trung_tam_TP",
+                                 "title": "Quy hoạch phân khu Trung tâm TP",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPKTRUNGTAMTP.QN.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+								 "maxNativeZoom": 2,
+					              "area" : {
+                                  "lat" : 15.112607,
+                                  "lng" : 108.791428,
+                                  "zoom" : 14
+                                  }								 
+                                },
+					            {
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_phiaBac",
                                  "title": "Quy hoạch phân khu phía Bắc ",
