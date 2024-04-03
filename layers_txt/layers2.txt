@@ -289,32 +289,34 @@
                                 "type": "Layer",
 				"id": "Quy_hoach_phan_khu_Trung_tam_TP",
                                  "title": "Quy hoạch phân khu Trung tâm TP",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/phankhu712.geojson",
-				  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
-                                 "cocotile": true,
-                                 "minZoom": 5,
-                                 "maxZoom": 12,
-				 "maxNativeZoom": 5,
-				 "area" : {
+                   		  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                  "toggleall": false,
+                             	 "area" : {
                                   "lat" : 15.112607,
                                   "lng" : 108.791428,
                                   "zoom" : 13
                                   },
-				 {
+                                "entries": [
+                                  {
+                                 "type": "Layer",
+                                "id": "Quy_hoach_phan_khu_Trung_tam_TP",
+                                "title": "Quy hoạch phân khu Trung tâm TP",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/phankhu712.geojson",
+                                "cocotile": true,
+                                "minZoom": 4,
+                                "maxZoom": 12,
+                                "maxNativeZoom": 12
+                                },
+                                  {
                                 "type": "Layer",
-				"id": "Quy_hoach_phan_khu_Trung_tam_TP11",
-                                 "title": "Quy hoạch phân khu Trung tâm TP",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
-				  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
-                                 "cocotile": true,
-                                 "minZoom": 10,
-                                 "maxZoom": 50,
-				 "maxNativeZoom": 10,
-				 "area" : {
-                                  "lat" : 15.112607,
-                                  "lng" : 108.791428,
-                                  "zoom" : 14
-                                  }	
+                                "id": "Quy_hoach_phan_khu_Trung_tam_TP",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
+                                "cocotile": true,
+                                "minZoom": 16,
+                                "maxZoom": 50,
+                                "maxNativeZoom": 16
+                                }
+	                       ]
                                 },
 					            {
                                 "type": "Layer",
