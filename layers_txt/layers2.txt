@@ -199,6 +199,178 @@
                                 }
 	                  ]
 	                  },
+
+
+ {
+                      "type": "LayerGroup",
+                      "title": "Ban Quản lý KKTDQ&CKCN",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch</div>",
+                      "toggleall": false,
+                      "entries": [
+            {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch chung",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung </div>",
+                      "toggleall": false,
+                      "entries": [
+           {
+          "type": "LayerGroup",
+          "title": "Quy hoạch điều chỉnh năm 2023",
+          "html" : "<div class='layer_text'>Phê duyệt Điều chỉnh tổng thể Quy hoạch chung xây dựng Khu kinh tế Dung Quất, tỉnh Quảng Ngãi đến năm 2045 tại Quyết định số 168/QĐ-TTg ngày28/02/2023</div>",
+          "toggleall": false,
+          "entries": [
+                   
+                  {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_2023",
+                                 "title": "QH Sử dụng đất",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+                 "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 15.249408,
+                                  "lng" : 108.934937,
+                                  "zoom" : 11
+                                  }
+                                },                      
+                         {
+                           "type": "LayerGroup",
+               "id": "QHC_Dungquat_SaHuynh_SDD",
+                           "title": "Sử dụng đất",
+                           "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch sử dụng đất</div>",
+                           "toggleall": false,
+                "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  },
+                           "entries": [
+                      {
+                                 "type": "Layer",
+                                 "id": "QH tinhsssawwwa",
+                                 "title": "Quy hoạch tỉnh",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/sudungdatdungquat_sahuynh.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+                 "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                },
+                                      
+                    {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_SDD",
+                                 "title": "Sử dụng đất",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_SDD/{z}/{x}/{y}.png",
+                                 "cocotile": false,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+                 "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                }
+                
+                      ]
+                             
+                                },
+                  {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_TNM",
+                                 "title": "Thoát nước mưa",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_TNM/{z}/{x}/{y}.png",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+                 "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                },
+                  {
+                                 "type": "Layer",
+                                 "id": "QHC_Dungquat_SaHuynh_CN",
+                                 "title": "Cấp nước",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_CN/{z}/{x}/{y}.png",
+                                 "cocotile": true,
+                                 "minZoom": 12,
+                                 "maxZoom": 20,
+                 "maxNativeZoom": 20,
+                  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+                                }
+                
+                
+          ]
+                    }
+                                ]
+                                },
+                                {
+                      "type": "LayerGroup",
+                      "title": "Quy hoạch phân khu",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
+                      "toggleall": false,
+                      "entries": [
+                      {
+                                "type": "Layer",
+                                 "id": "Quy_hoach_phan_khu_1_1",
+                                 "title": "Phân khu 1.1 đường ven biển Dung Quất  - Sa Huỳnh",
+                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/Dungquat-SaHuynh_2000_phankhu1-1.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+                 "maxNativeZoom": 2
+                                }
+                                ]
+                                },
+                {
+                     "type": "LayerGroup",
+                      "title": "Quy hoạch chi tiết",
+                      "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch chi tiết</div>",
+                      "toggleall": false,
+                      "entries": [
+                      {
+                                "type": "Layer",
+                                 "title": "...",
+                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+                 "maxNativeZoom": 2
+                                }
+                                ]
+                                }
+                    ]
+                    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			{
                       "type": "LayerGroup",
                       "title": "Thành phố Quảng Ngãi",
