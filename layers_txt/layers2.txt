@@ -224,7 +224,7 @@
                                  "type": "Layer",
                                  "id": "QHC_Dungquat_2023",
                                  "title": "QH Sử dụng đất",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachchungdungquat_168.geojson",
                                  "cocotile": true,
                                  "minZoom": 12,
                                  "maxZoom": 20,
