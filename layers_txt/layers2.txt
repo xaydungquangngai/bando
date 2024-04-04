@@ -226,7 +226,7 @@
                                  "title": "QH Sử dụng đất",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachchungdungquat_168.geojson",
                                  "cocotile": true,
-                                 "minZoom": 12,
+                                 "minZoom": 8,
                                  "maxZoom": 20,
                  "maxNativeZoom": 20,
                   "area" : {
