@@ -671,6 +671,7 @@
                       "entries": [
 					            {
                                 "type": "Layer",
+                                "id": "Quy_hoach_chung_DT_SongVe_2016",
                                  "title": "QHC đô thị Sông Vệ năm 2016",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SSD_SONGVE_2016.geojson",
                                  "cocotile": true,
