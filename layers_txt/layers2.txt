@@ -95,7 +95,7 @@
                                  "type": "Layer",
                                  "id": "QH tinhsssawwwa",
                                  "title": "Quy hoạch tỉnh",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/sudungdatdungquat_sahuynh.geojson",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SSD_DUNGQUATSAHUYNH_2022.geojson",
                                  "cocotile": false,
                                  "minZoom": 2,
                                  "maxZoom": 20,
