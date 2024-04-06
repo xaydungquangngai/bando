@@ -170,9 +170,9 @@
                       "entries": [
 					            {
                                 "type": "Layer",
-                                 "id": "Quy_hoach_phan_khu_1_1",
-                                 "title": "Phân khu 1.1 đường ven biển Dung Quất  - Sa Huỳnh",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/Dungquat-SaHuynh_2000_phankhu1-1.geojson",
+                                 "id": "Quy_hoach_phan_khu_1_1A",
+                                 "title": "Phân khu 1.1 đường ven biển Dung Quất  - Sa Huỳnh năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHKP_SDD_PKHU11_2023.geojson",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
