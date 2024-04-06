@@ -478,7 +478,7 @@
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_phiaBac",
                                  "title": "Quy hoạch phân khu phía Bắc năm 2020",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_PhiaBacTP_ranh_2020.geojson",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhiaBac_TP2020.geojson",
 								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
                                  "minZoom": 5,
