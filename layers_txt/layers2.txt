@@ -683,6 +683,21 @@
                                   "lng" : 108.859663,
                                   "zoom" : 14
                                   }
+                                },
+			       {
+                                "type": "Layer",
+                                "id": "Quy_hoach_chung_TTMODUC_2023",
+                                 "title": "QHC thị trấn Mộ Đức năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTMODUC_2023.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.940265,
+                                  "lng" : 108.900690,
+                                  "zoom" : 14
+                                  }
                                 }
                                 ]
                                 },
