@@ -780,8 +780,9 @@
                                   "zoom" : 14
                                   }
                                 },
+                             {
                                 "type": "Layer",
-                                "id": "Quy_hoach_chung_songve_phucan_2023",
+                                "id": "Quy_hoach_chung_songve_2015",
                                  "title": "QHC thị trấn Sông Vệ 2015",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTSONGVE_2015.geojson",
                                  "cocotile": true,
