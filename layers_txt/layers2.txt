@@ -779,6 +779,20 @@
                                   "lng" : 108.830833,
                                   "zoom" : 14
                                   }
+                                },
+                                "type": "Layer",
+                                "id": "Quy_hoach_chung_songve_phucan_2023",
+                                 "title": "QHC thị trấn Sông Vệ 2015",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTSONGVE_2015.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.044171,
+                                  "lng" : 108.845029,
+                                  "zoom" : 15
+                                  }
                                 }
                                 ]
                                 },
