@@ -1069,14 +1069,21 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
                       "toggleall": false,
                       "entries": [
-					            {
+				 {
                                 "type": "Layer",
-                                 "title": "....",
-                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "id": "QHC_SDD_TTDiLang_SonHa_2022",
+                                 "title": "QHC TT Di Lăng 2022",
+                                  "html" : "<div class='layer_text'>Quy hoạch chung thị trấn Di Lăng năm 2022<a href='..'> Tải file</a></div>",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTDiLang_SonHa_2022.geojson",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.066073,
+                                  "lng" : 108.466301,
+                                  "zoom" : 13
+                                  }
                                 }
                                 ]
                                 },
