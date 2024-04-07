@@ -553,12 +553,19 @@
                       "entries": [
 					            {
                                 "type": "Layer",
-                                 "title": "....",
-                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "id": "QHC_SDD_TXDUCPHO_2014",
+                                 "title": "QHC TX Đức Phổ năm 2014",
+                                  "html" : "<div class='layer_text'>Quy hoạch chung thị xã Đức Phổ năm 2014<a href='..'> Tải file</a></div>",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TXDUCPHO_2014.geojson",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.781190,
+                                  "lng" : 108.993301,
+                                  "zoom" : 12
+                                  }
                                 }
                                 ]
                                 },
