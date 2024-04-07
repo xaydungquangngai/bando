@@ -1149,8 +1149,9 @@
                                   "lat" : 14.757204,
                                   "lng" : 108.728943,
                                   "zoom" : 13
+                                  }
                                   },
-				 {
+                                  {
                                 "type": "Layer",
                                  "id": "QHC_SDD_DT_BaVi_2016",
                                  "title": "QHC ĐT Ba Vì 2016",
