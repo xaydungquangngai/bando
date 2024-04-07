@@ -638,6 +638,38 @@
                                   "lng" : 108.979268,
                                   "zoom" : 15
                                   }								 
+                                },
+				 {
+                                "type": "Layer",
+				"id": "QHPK_SDD_TrungTamPhuongPhoQuang_2021",
+                                 "title": "QHPK TTĐT Phường Phổ Quang 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_TrungTamPhuongPhoQuang_2021.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.844155,
+                                  "lng" : 108.981685,
+                                  "zoom" : 15
+                                  }								 
+                                },
+				 {
+                                "type": "Layer",
+				"id": "QHPK_SDD_TrungTamPhuongPhoVan_2021",
+                                 "title": "QHPK TTĐT Phường Phổ Văn 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_TrungTamPhuongPhoVan_2021.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.851762,
+                                  "lng" : 108.948069,
+                                  "zoom" : 15
+                                  }								 
                                 }
                                 ]
                                 },
