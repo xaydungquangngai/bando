@@ -1135,15 +1135,36 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch chung</div>",
                       "toggleall": false,
                       "entries": [
-					            {
+				 {
                                 "type": "Layer",
-                                 "title": "....",
-                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+                                 "id": "QHC_SDD_TTBaTo_BaTo_2015",
+                                 "title": "QHC TT Ba Tơ 2015",
+                                  "html" : "<div class='layer_text'>Quy hoạch chung thị trấn Ba Tơ năm 2015<a href='..'> Tải file</a></div>",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTBaTo_BaTo_2015.geojson",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2
-                                }
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.757204,
+                                  "lng" : 108.728943,
+                                  "zoom" : 13
+                                  },
+				 {
+                                "type": "Layer",
+                                 "id": "QHC_SDD_DT_BaVi_2016",
+                                 "title": "QHC ĐT Ba Vì 2016",
+                                  "html" : "<div class='layer_text'>Quy hoạch chung đô thị Ba Vì năm 2016<a href='..'> Tải file</a></div>",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_DT_BaVi_2016.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.698557,
+                                  "lng" : 108.555222,
+                                  "zoom" : 14
+                                  }
                                 ]
                                 },
                                 {
