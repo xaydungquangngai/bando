@@ -575,14 +575,21 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
                       "toggleall": false,
                       "entries": [
-					            {
+				 {
                                 "type": "Layer",
-                                 "title": "....",
-                                 "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgdy36pwdQC79zKDiyCQc7O9dv6xI6TJN0mSCSoCw_OpmQDepSgYujOCkjlvBEOri59_w3V-kxu650/pub?gid=1405862646&single=true&output=csv",
+				"id": "QHPK_SDD_PhiaNamPhuongNguyenNghiem_2021",
+                                 "title": "QHPK TTĐT Phía Nam Phường Nguyễn Nghiêm 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhiaNamPhuongNguyenNghiem_2021.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.790692,
+                                  "lng" : 108.974762,
+                                  "zoom" : 14
+                                  }								 
                                 }
                                 ]
                                 },
