@@ -1220,7 +1220,7 @@
 				 {
                                 "type": "Layer",
                                  "id": "QHC_SDD_TTTraXuan_TraBong_2022",
-                                 "title": "QHC TT Ba Tơ 2015",
+                                 "title": "QHC TT Trà Xuân 2022",
                                   "html" : "<div class='layer_text'>Quy hoạch chung thị trấn Trà Xuân năm 2022<a href='..'> Tải file</a></div>",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_TTTraXuan_TraBong_2022.geojson",
                                  "cocotile": true,
