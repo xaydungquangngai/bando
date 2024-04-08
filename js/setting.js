@@ -855,7 +855,7 @@ CONFIG.LAYERTREESEARCHLIST = [
 CONFIG.SAKUZU = {
 
   SYMBOL: {
-    URL: "https://maps.gsi.go.jp/portal/sys/v4/symbols/",
+    URL: "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/",
     FILES: [
       // 汎用記号（●（光沢）、●、○、■（影付き）、■、×、▲（影付き）、△、★）
       '080.png', '081.png', '082.png', '083.png', '805.png', '806.png', '807.png', '808.png', '809.png', '810.png',
