@@ -912,7 +912,7 @@ CONFIG.SAKUZU = {
       '449.png', '447.png', '446.png', '445.png', '438.png', '437.png', '436.png', '300.png',
       '301.png', '302.png', '303.png', '304.png', '305.png', '306.png', '307.png',
       '308.png', '309.png', '310.png', '311.png',
-      '1101.png', '1102.png', '1103.png', '1104.png', '1105.png', '1106.png', '1107.png', '1108.png'
+      '1101.png', '1102.png', '1103.png', '1104.png', '1105.png', '1106.png', '1107.png', '1108.png', '1109.png', '1110.png', '1111.png', '1112.png'
     ],
     ICONSIZE: [20, 20],
     ICONANCHOR: [10, 10],
