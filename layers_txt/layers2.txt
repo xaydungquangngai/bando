@@ -706,7 +706,7 @@
                                {
                                 "type": "Layer",
 				"id": "QHPK_SDD_SaHuynh_2014",
-                                 "title": "QHPK thị trấn Sa Hùnh 2014",
+                                 "title": "QHPK thị trấn Sa Huỳnh 2014",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_SaHuynh_2014.geojson",
 								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
