@@ -684,8 +684,40 @@
 				 "area" : {
                                   "lat" : 14.851762,
                                   "lng" : 108.948069,
-                                  "zoom" : 15
-                                  }								 
+                                  "zoom" : 15						 
+                                }
+                                },
+                               {
+                                "type": "Layer",
+				"id": "QHPK_SDD_PhoVinh_2023",
+                                 "title": "QHPK TTĐT Phường Phổ Vinh 2022",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhoVinh_2023.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.802559,
+                                  "lng" : 109.002657,
+                                  "zoom" : 14		 
+                                }
+                                },
+                               {
+                                "type": "Layer",
+				"id": "QHPK_SDD_SaHuynh_2014",
+                                 "title": "QHPK thị trấn Sa Hùnh 2014",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_SaHuynh_2014.geojson",
+								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 14.668897,
+                                  "lng" : 109.066317,
+                                  "zoom" : 15		 
+                                }
                                 }
                                 ]
                                 },
