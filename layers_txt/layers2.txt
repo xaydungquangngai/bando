@@ -325,15 +325,37 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
                       "toggleall": false,
                       "entries": [
-                      {
+{
                                 "type": "Layer",
-                                 "id": "Quy_hoach_phan_khu_1_1",
-                                 "title": "Phân khu 1.1 đường ven biển Dung Quất  - Sa Huỳnh 2023",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHKP_SDD_PKHU11_2023.geojson",
+				"id": "QHPK_SDD_DTCNDVBinhThanh_2023",
+                                 "title": "QHPK Khu công nghiệp, đô thị, dịch vụ Bình Thanh năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_DTCNDVBinhThanh_2023.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-                 "maxNativeZoom": 2
+				"maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.268536,
+                                  "lng" : 108.836403,
+                                  "zoom" : 13
+                                  }								 
+                                },
+					            {
+                                "type": "Layer",
+				"id": "QHPK_SDD_DTDVCNTinhPhong_2023",
+                                 "title": "QHPK Khu đô thị, công nghiệp, dịch vụ Tịnh Phong năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_DTDVCNTinhPhong_2023.geojson",
+				  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				"maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.205267,
+                                  "lng" : 108.786964,
+                                  "zoom" : 13
+                                  }
                                 }
                                 ]
                                 },
