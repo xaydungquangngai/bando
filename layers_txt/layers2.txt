@@ -411,7 +411,7 @@
                       "entries": [
 					  					            {
                                 "type": "Layer",
-								"id": "Quy_hoach_phan_khu_Trung_tam_TP",
+				"id": "Quy_hoach_phan_khu_Trung_tam_TP",
                                  "title": "Quy hoạch phân khu Trung tâm TP",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
 								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
@@ -425,7 +425,7 @@
                                   "zoom" : 14
                                   }								 
                                 },
-					            {
+				{
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_phiaBac",
                                  "title": "Quy hoạch phân khu phía Bắc năm 2020",
@@ -434,8 +434,54 @@
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2
+				 "maxNativeZoom": 2
                                 },
+                               {
+                                "type": "Layer",
+								"id": "QHPK_SDD_NghiaAn_2021",
+                                 "title": "QHPK Nghĩa An năm 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_NghiaAn_2021.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
+                               {
+                                "type": "Layer",
+								"id": "QHPK_SDD_NghiaChanh_2021",
+                                 "title": "QHPK Nghĩa Chánh năm 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_NghiaChanh_2021.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
+                               {
+                                "type": "Layer",
+								"id": "QHPK_SDD_QuangPhu_2021",
+                                 "title": "QHPK Quảng Phú năm 2021",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_QuangPhu_2021.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
+                               {
+                                "type": "Layer",
+				"id": "QHPK_SDD_PhanConLaiPhiaNam_202",
+                                 "title": "QHPK Phần còn lại phía Nam năm 2022",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhanConLaiPhiaNam_2022.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
+
+
 							    {
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_NghiaDong_NghaaChanh",
