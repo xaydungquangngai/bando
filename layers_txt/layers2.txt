@@ -214,108 +214,21 @@
                       "toggleall": false,
                       "entries": [
            {
-          "type": "LayerGroup",
+          "type": "Layer",
+          "id": "QHC_Dungquat_2023",
           "title": "Quy hoạch điều chỉnh năm 2023",
+          "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachchungdungquat_168.geojson",
           "html" : "<div class='layer_text'>Phê duyệt Điều chỉnh tổng thể Quy hoạch chung xây dựng Khu kinh tế Dung Quất, tỉnh Quảng Ngãi đến năm 2045 tại Quyết định số 168/QĐ-TTg ngày28/02/2023</div>",
-          "toggleall": false,
-          "entries": [
-                   
-                  {
-                                 "type": "Layer",
-                                 "id": "QHC_Dungquat_2023",
-                                 "title": "QH Sử dụng đất",
-                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachchungdungquat_168.geojson",
-                                 "cocotile": true,
-                                 "minZoom": 8,
-                                 "maxZoom": 20,
-                 "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 15.249408,
-                                  "lng" : 108.934937,
-                                  "zoom" : 11
-                                  }
-                                },                      
-                         {
-                           "type": "LayerGroup",
-               "id": "QHC_Dungquat_SaHuynh_SDD",
-                           "title": "Sử dụng đất",
-                           "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch sử dụng đất</div>",
-                           "toggleall": false,
-                "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 14.95477,
-                                  "lng" : 108.923264,
-                                  "zoom" : 14
-                                  },
-                           "entries": [
-                      {
-                                 "type": "Layer",
-                                 "id": "QH tinhsssawwwa",
-                                 "title": "Quy hoạch tỉnh",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/sudungdatdungquat_sahuynh.geojson",
-                                 "cocotile": false,
-                                 "minZoom": 2,
-                                 "maxZoom": 20,
-                 "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 14.95477,
-                                  "lng" : 108.923264,
-                                  "zoom" : 14
-                                  }
-                                },
-                                      
-                    {
-                                 "type": "Layer",
-                                 "id": "QHC_Dungquat_SaHuynh_SDD",
-                                 "title": "Sử dụng đất",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_SDD/{z}/{x}/{y}.png",
-                                 "cocotile": false,
-                                 "minZoom": 12,
-                                 "maxZoom": 20,
-                 "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 14.95477,
-                                  "lng" : 108.923264,
-                                  "zoom" : 14
-                                  }
-                                }
-                
-                      ]
-                             
-                                },
-                  {
-                                 "type": "Layer",
-                                 "id": "QHC_Dungquat_SaHuynh_TNM",
-                                 "title": "Thoát nước mưa",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_TNM/{z}/{x}/{y}.png",
-                                 "cocotile": true,
-                                 "minZoom": 12,
-                                 "maxZoom": 20,
-                 "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 14.95477,
-                                  "lng" : 108.923264,
-                                  "zoom" : 14
-                                  }
-                                },
-                  {
-                                 "type": "Layer",
-                                 "id": "QHC_Dungquat_SaHuynh_CN",
-                                 "title": "Cấp nước",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dichvucong/main/dungquat_sahuynh/QHC_CN/{z}/{x}/{y}.png",
-                                 "cocotile": true,
-                                 "minZoom": 12,
-                                 "maxZoom": 20,
-                 "maxNativeZoom": 20,
-                  "area" : {
-                                  "lat" : 14.95477,
-                                  "lng" : 108.923264,
-                                  "zoom" : 14
-                                  }
-                                }
-                
-                
-          ]
+          "cocotile": true,
+         "minZoom": 8,
+         "maxZoom": 20,
+         "maxNativeZoom": 20,
+         "area" : {
+        "lat" : 15.249408,
+        "lng" : 108.934937,
+        "zoom" : 11
+         }
+
                     }
                                 ]
                                 },
@@ -325,6 +238,22 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu</div>",
                       "toggleall": false,
                       "entries": [
+{
+                                "type": "Layer",
+				"id": "QHPK_SDD_DTDVDongNamDungQuat_2023",
+                                 "title": "QHPK Khu đô thị, dịch vụ Đông Nam Dung Quất năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_DTDVDongNamDungQuat_2023.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				"maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.272759,
+                                  "lng" : 108.919830,
+                                  "zoom" : 12
+                                  }								 
+                                },
 {
                                 "type": "Layer",
 				"id": "QHPK_SDD_DTCNDVBinhThanh_2023",
