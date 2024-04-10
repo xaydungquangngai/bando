@@ -337,7 +337,7 @@
 					            {
                                 "type": "Layer",
                                  "id": "quy_hoach_chung_2045",
-                                 "title": "Quy hoạch chung năm 2021",
+                                 "title": "QHC năm 2021",
                                   "html" : "<div class='layer_text'>Quyết định số 949/QĐ-UBND ngày 11/10/2021 của UBND tỉnh Quảng Ngãi về việc phê duyệt đồ án Điều chỉnh Quy hoạch chung xây dựng thành phố Quảng Ngãi đến năm 2040<a href='https://vanban.quangngai.gov.vn/thongtin/filedinhkem/download?maSo=7ea152d22c9d4a6a701ccb53d4463962.pdf'> Tải file</a></div>",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHCSDDthanhpho_2021.geojson",
                                  "cocotile": true,
@@ -412,14 +412,14 @@
 					  					            {
                                 "type": "Layer",
 				"id": "Quy_hoach_phan_khu_Trung_tam_TP",
-                                 "title": "Quy hoạch phân khu Trung tâm TP",
+                                 "title": "QHPK Trung tâm TP năm 2023",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/Quyhoachphankhutrungtamtp2000-712.geojson",
-								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+				  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
-								 "maxNativeZoom": 2,
-					              "area" : {
+				 "maxNativeZoom": 2,
+				  "area" : {
                                   "lat" : 15.112607,
                                   "lng" : 108.791428,
                                   "zoom" : 14
@@ -428,9 +428,20 @@
 				{
                                 "type": "Layer",
 								"id": "Quy_hoach_phan_khu_phiaBac",
-                                 "title": "Quy hoạch phân khu phía Bắc năm 2020",
+                                 "title": "QHPK phía Bắc năm 2020",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhiaBac_TP2020.geojson",
-								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
+				{
+                                "type": "Layer",
+								"id": "QHPK_SDD_PhanConLaiPhiaBacTP_2022",
+                                 "title": "QHPK phần còn lại phía Bắc năm 2022",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_PhanConLaiPhiaBacTP_2022.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
                                  "cocotile": true,
                                  "minZoom": 5,
                                  "maxZoom": 50,
