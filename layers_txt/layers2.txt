@@ -989,6 +989,22 @@
                       "entries": [
 					            {
                                 "type": "Layer",
+                                 "id": "QHCDC_SDD_TTChoChua_2023",
+                                 "title": "QHCĐC thị trấn Chợ Chùa năm 2023",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHCDC_SDD_TTChoChua_2023.geojson",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+			        "maxNativeZoom": 2,
+				 "area" : {
+                                  "lat" : 15.051507,
+                                  "lng" : 108.785419,
+                                  "zoom" : 14
+                                  }
+                                },
+
+					            {
+                                "type": "Layer",
                                  "id": "Quy_hoach_sdd_chochua_2015",
                                  "title": "QHC thị trấn Chợ Chùa năm 2015",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHC_SDD_CHOCHUA_2015.geojson",
