@@ -502,41 +502,6 @@
                                  "minZoom": 5,
                                  "maxZoom": 50,
 				 "maxNativeZoom": 2
-                                },
-
-
-							    {
-                                "type": "Layer",
-								"id": "Quy_hoach_phan_khu_NghiaDong_NghaaChanh",
-                                 "title": "Quy hoạch phân khu Nghĩa Dõng-Nghĩa Chánh",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPK_NGIADONG_NGHIACHANH.geojson",
-								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
-                                 "cocotile": true,
-                                 "minZoom": 5,
-                                 "maxZoom": 50,
-								 "maxNativeZoom": 2
-                                },
-		                        {
-                                "type": "Layer",
-								"id": "Quy_hoach_phan_khu_TinhKy_TinhKhe",
-                                 "title": "Quy hoạch phân khu Tịnh Kỳ - Tịnh Khê",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QHPKTINHKHE-TINHKY.geojson",
-								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
-                                 "cocotile": true,
-                                 "minZoom": 5,
-                                 "maxZoom": 50,
-								 "maxNativeZoom": 2
-                                },
-								{
-								 "type": "Layer",
-								 "id": "Quy_hoach_phan_khu_phia_Tay_Quang_Phu",
-                                 "title": "Quy hoạch phân khu phía Tây Quảng Phú",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/QGPK_TAYQUANG PHU.geojson",
-								  "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
-                                 "cocotile": true,
-                                 "minZoom": 5,
-                                 "maxZoom": 50,
-								 "maxNativeZoom": 2
                                 }
                                 ]
                                 },
