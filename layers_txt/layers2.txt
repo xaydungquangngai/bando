@@ -469,7 +469,17 @@
                                  "maxZoom": 50,
 				 "maxNativeZoom": 2
                                 },
-
+                               {
+                                "type": "Layer",
+				"id": "QHPK_SDD_TinhKy_TinhHoa_2018",
+                                 "title": "QHPK Khu vực Tịnh Kỳ Tịnh Hòa năm 2018",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHPK_SDD_TinhKy_TinhHoa_2018.geojson",
+				 "html" : "<div class='layer_text'>Bạn có thể xem các Quy hoạch phân khu......</div>",
+                                 "cocotile": true,
+                                 "minZoom": 5,
+                                 "maxZoom": 50,
+				 "maxNativeZoom": 2
+                                },
                                {
                                 "type": "Layer",
 								"id": "QHPK_SDD_NghiaChanh_2021",
