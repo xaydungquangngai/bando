@@ -23,7 +23,7 @@
                                  "type": "Layer",
                                 "id": "diemngaptp2021",
                                 "title": "Điểm ngập thành phố Quảng Ngãi",
-                                "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/ngapungthanhpho2021.geojson",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/ngapungthanhpho2021.geojson",
                                 "cocotile": true,
                                 "minZoom": 12,
                                 "maxZoom": 50,
@@ -32,7 +32,7 @@
                                   {
                                 "type": "Layer",
                                 "id": "diemngaptp2021",
-                                "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/tetngapung-moi.geojson",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/tetngapung-moi.geojson",
                                 "cocotile": true,
                                 "minZoom": 16,
                                 "maxZoom": 50,
