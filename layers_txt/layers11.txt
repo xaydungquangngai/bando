@@ -10,7 +10,7 @@
        "cocotile": true,
        "minZoom": 12,
        "maxZoom": 28,
-	   "maxNativeZoom": 28
+	   "maxNativeZoom": 20
     }
   ]
 }
