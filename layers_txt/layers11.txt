@@ -3,9 +3,9 @@
     {
       "type": "Layer",
 	  "id": "LK1_duanTruongChuVanAn",
-      "title": "Bản đồ khảo địa chất",
+      "title": "Bản đồ vị trí lỗ khoan địa chất",
       "cocotile": true,
-      "html" : "<div class='layer_text'>Bạn có thể xem danh mục dự án kêu gọi đầu tư ngành xây dựng</div>",
+      "html" : "<div class='layer_text'>Bạn có thể xem bản đồ vị trí lỗ khoan đọa chất</div>",
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK1_duanTruongChuVanAn.geojson",
        "cocotile": true,
        "minZoom": 12,
