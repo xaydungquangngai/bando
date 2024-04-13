@@ -3,9 +3,9 @@
     {
       "type": "Layer",
      "id": "LK2_duanTruongChuVanAn",
-      "title": "Bản đồ khảo địa chất",
+      "title": "Bản đồ điểm mốc tọa độ, cao độ",
       "cocotile": true,
-      "html" : "<div class='layer_text'>Bạn có thể xem danh mục dự án kêu gọi đầu tư ngành xây dựng</div>",
+      "html" : "<div class='layer_text'>Bạn có thể xem các mốc tọa độ, cao độ</div>",
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK1_duanTruongChuVanAn.geojson",
        "cocotile": true,
        "minZoom": 12,
