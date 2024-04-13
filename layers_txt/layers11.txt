@@ -9,8 +9,8 @@
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK1_duanTruongChuVanAn.geojson",
        "cocotile": true,
        "minZoom": 12,
-       "maxZoom": 20,
-	   "maxNativeZoom": 20
+       "maxZoom": 28,
+	   "maxNativeZoom": 28
     }
   ]
 }
