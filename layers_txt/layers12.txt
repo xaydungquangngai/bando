@@ -2,7 +2,7 @@
   "layers": [
     {
       "type": "Layer",
-	  "id": "LK2_duanTruongChuVanAn",
+     "id": "LK2_duanTruongChuVanAn",
       "title": "Bản đồ khảo địa chất",
       "cocotile": true,
       "html" : "<div class='layer_text'>Bạn có thể xem danh mục dự án kêu gọi đầu tư ngành xây dựng</div>",
@@ -10,7 +10,7 @@
        "cocotile": true,
        "minZoom": 12,
        "maxZoom": 28,
-	   "maxNativeZoom": 20
+       "maxNativeZoom": 20
     }
   ]
 }
