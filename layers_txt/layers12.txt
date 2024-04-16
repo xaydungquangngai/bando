@@ -6,7 +6,7 @@
       "title": "Bản đồ điểm mốc tọa độ, cao độ",
       "cocotile": true,
       "html" : "<div class='layer_text'>Bạn có thể xem các mốc tọa độ, cao độ</div>",
-	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/kenh/{z}/{x}/{y}.geojson",
+	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/{z}/{x}/{y}/kenh.geojson",
        "cocotile": true,
        "minZoom": 12,
        "maxZoom": 28,
