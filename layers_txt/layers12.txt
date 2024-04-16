@@ -11,18 +11,7 @@
        "minZoom": 8,
        "maxZoom": 28,
        "maxNativeZoom": 20
-    },
-    {
-      "type": "Layer",
-     "id": "sLK2_duanTruongChuVanAn",
-      "title": "ssBản đồ điểm mốc tọa độ, cao độ",
-      "cocotile": true,
-      "html" : "<div class='layer_text'>Bạn có thể xem các mốc tọa độ, cao độ</div>",
-	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/kenh/{z}/{x}/{y}.geojson",
-       "cocotile": true,
-       "minZoom": 8,
-       "maxZoom": 28,
-       "maxNativeZoom": 20
     }
+
   ]
 }
