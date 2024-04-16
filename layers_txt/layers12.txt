@@ -8,7 +8,7 @@
       "html" : "<div class='layer_text'>Bạn có thể xem các mốc tọa độ, cao độ</div>",
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/kenh.geojson",
        "cocotile": true,
-       "minZoom": 12,
+       "minZoom": 8,
        "maxZoom": 28,
        "maxNativeZoom": 20
     }
