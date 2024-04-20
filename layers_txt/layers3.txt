@@ -133,7 +133,17 @@
                       "entries": [
   	  
 	                  ]
-	                  }						  
+	                  },
+                         {
+                                 "type": "Layer",
+                                "id": "kenh",
+                                "title": "Kênh mương",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/kenh.geojson",
+                                "cocotile": true,
+                                "minZoom": 2,
+                                "maxZoom": 50,
+                                "maxNativeZoom": 2
+                                }
 					  
          
       ]
