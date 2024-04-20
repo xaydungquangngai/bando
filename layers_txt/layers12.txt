@@ -3,7 +3,7 @@
     {
       "type": "Layer",
      "id": "diemmockhongchedoth",
-      "title": "Bản đồ điểm mốc tọa độ, cao độ",
+      "title": "Bản đồ điểm mốc khống chế tọa độ, cao độ Quốc gia",
       "cocotile": true,
       "html" : "<div class='layer_text'>Bạn có thể xem các mốc khống chế tọa độ, cao độ Quốc gia</div>",
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/diemmockhongchedothi.geojson",
