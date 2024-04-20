@@ -2,7 +2,7 @@
   "layers": [
     {
       "type": "Layer",
-     "id": "LK2_duanTruongChuVanAn",
+     "id": "diemmockhongchedoth",
       "title": "Bản đồ điểm mốc tọa độ, cao độ",
       "cocotile": true,
       "html" : "<div class='layer_text'>Bạn có thể xem các mốc khống chế tọa độ, cao độ Quốc gia</div>",
