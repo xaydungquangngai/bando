@@ -12,31 +12,18 @@
                       "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch cấp quốc gia trên tại tỉnh Quảng Ngãi</div>",
                       "toggleall": false,
                       "entries": [
-		  	                     {
-                                 "type": "Layer",
-                                 "id": "tandanh.cl77hwwfo023620mqrxxephg2-9t81o",
-                                 "title": "Lớp thử nghiệm",
-                                 "url": "https://api.tiles.mapbox.com/styles/v1/tandanh/tandanh.cl77hwwfo023620mqrxxephg2-9t81o/tiles/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoidGFuZGFuaCIsImEiOiJjbDZubjlmNmswMmd1M2psZWtwcWpwZHF6In0.8bbXtIQpUh_lsX0D4LcYJw",
-                                 "cocotile": true,
-                                 "minZoom": 5,
-                                 "maxZoom": 50,
-								 "maxNativeZoom": 14,
-				 "area" : {
-                                "lat" : 15.188081,
-                                 "lng" : 108.096666,
-                                 "zoom" : 12
-                                           }
-                                },
-                                {
-                                 "type": "Layer",
-                                "id": "tandahj",
-                                "title": "Lớp thử nghiệm1",
-                                "url": "https://cdn.dandautu.vn/quy-hoach/quang_ngai/quang_ngai__quang_ngai/{z}/{x}/{y}.png",
-                                "cocotile": true,
-                                "minZoom": 5,
-                                "maxZoom": 18,
-                                "maxNativeZoom": 20
-                                }
+    {
+      "type": "Layer",
+     "id": "VungVietNam",
+      "title": "Phân vùng kinh tế Việt Nam",
+      "cocotile": true,
+      "html" : "<div class='layer_text'>Bạn có thể xem Phân vùng kinh tế Việt Nam</div>",
+	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/VungVietNam.geojson",
+       "cocotile": true,
+       "minZoom": 8,
+       "maxZoom": 28,
+       "maxNativeZoom": 20
+    }
 	                            ]
 	                  },
 		              {
