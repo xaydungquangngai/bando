@@ -20,7 +20,7 @@
       "html" : "<div class='layer_text'>Bạn có thể xem Phân vùng kinh tế Việt Nam</div>",
 	  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/VungVietNam.geojson",
        "cocotile": true,
-       "minZoom": 8,
+       "minZoom": 2,
        "maxZoom": 28,
        "maxNativeZoom": 20
     }
