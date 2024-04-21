@@ -39,7 +39,7 @@
 		            {
                                  "type": "Layer",
                                  "id": "QHKhongGianVunghuyen",
-                                 "title": "Quy hoạch không gian vùng huyện ",
+                                 "title": "Quy hoạch không gian vùng liên huyện ",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHKhongGianVunghuyen.geojson",
                                  "cocotile": false,
                                  "minZoom": 2,
