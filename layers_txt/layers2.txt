@@ -15,9 +15,25 @@
 
 					            {
                                  "type": "Layer",
-                                 "id": "QHT_mo",
-                                 "title": "Phương án quy hoạch mỏ vật liệu ",
-                                 "url": "https://raw.githubusercontent.com/sxdquangngai/dulieu/main/modat.geojson",
+                                 "id": "PhanVungKinhte",
+                                 "title": "Phân vùng kinh tế ",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/PhanVungKinhte.geojson",
+                                 "cocotile": false,
+                                 "minZoom": 2,
+                                 "maxZoom": 20,
+								 "maxNativeZoom": 20,
+								  "area" : {
+                                  "lat" : 14.95477,
+                                  "lng" : 108.923264,
+                                  "zoom" : 14
+                                  }
+								  },
+
+		            {
+                                 "type": "Layer",
+                                 "id": "HanhLangKinhte",
+                                 "title": "Hành lang kinh tế ",
+                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/HanhLangKinhte.geojson",
                                  "cocotile": false,
                                  "minZoom": 2,
                                  "maxZoom": 20,
@@ -28,7 +44,6 @@
                                   "zoom" : 14
                                   }
 								  }
-
 								
 		
                              
