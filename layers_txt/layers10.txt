@@ -51,9 +51,9 @@
 
 					 {
                      "type": "Layer",
-                     "id": "DA_BCKTKT_2023",
+                     "id": "DA_BCKTKT_20231",
                      "title": "DA BC TKKT năm 2023 ",
-                     "url": "https://raw.githubusercontent.com/sxdquangngai/data/main/BCKTKT_2023.geojson",
+                     "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/nen40-80.geojson",
                      "cocotile": false,
                      "minZoom": 2,
                      "maxZoom": 20,
