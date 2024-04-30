@@ -13,7 +13,7 @@
 
 					 {
                      "type": "Layer",
-                     "id": "DA_BCNCKT",
+                     "id": "DA_BCNCKT1",
                      "title": "DA BCNNKT năm 2023",
                      "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QL24.geojson",
                      "cocotile": false,
