@@ -1129,7 +1129,7 @@
                       "entries": [
 					            {
                                 "type": "Layer",
-                                 "id": "QHC_SDD_DTSonTinh_2023",
+                                 "id": "QHCT_SDD_SonTinh2015",
                                  "title": "QHCT đô thị Sơn Tịnh 2015",
                                  "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/QHCT_SDD_SonTinh2015.geojson",
                                  "cocotile": true,
