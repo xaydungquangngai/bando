@@ -47,9 +47,9 @@
                                "title": "Sông Phước Giang",
                                 "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/SongPhuocGiang.geojson",
                                 "cocotile": true,
-                                "minZoom": 16,
+                                "minZoom": 2,
                                 "maxZoom": 50,
-                                "maxNativeZoom": 16
+                                "maxNativeZoom": 12
 	                  },
 		              {
                       "type": "LayerGroup",
