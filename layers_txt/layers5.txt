@@ -42,13 +42,14 @@
 	                  ]
 	                  },
 		              {
-                      "type": "LayerGroup",
-                      "title": "Năm 2022",
-                      "html" : "<div class='layer_text'>Bạn có thể xem các quy hoạch quy hoạch cấp vùng trên tại tỉnh Quảng Ngãi</div>",
-                      "toggleall": false,
-                      "entries": [
-  	  
-	                  ]
+                                "type": "Layer",
+                                "id": "SongPhuocGiang",
+                               "title": "Sông Phước Giang",
+                                "url": "https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/SongPhuocGiang.geojson",
+                                "cocotile": true,
+                                "minZoom": 16,
+                                "maxZoom": 50,
+                                "maxNativeZoom": 16
 	                  },
 		              {
                       "type": "LayerGroup",
